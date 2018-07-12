@@ -5283,7 +5283,7 @@ body {
 .cid-qXqvqud293 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #49828f;
 }
 .cid-qXqvqud293 .title {
   margin-bottom: 2rem;
@@ -5306,6 +5306,9 @@ body {
 .cid-qXqvqud293 .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qXqvqud293 H2 {
+  color: #f7ed4a;
 }
 .cid-qW1vIeMc4F .navbar {
   background: #000000;
