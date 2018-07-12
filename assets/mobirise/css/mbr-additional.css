@@ -3208,7 +3208,7 @@ body {
 .cid-qWVSRX3aAd {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qWVSRX3aAd h2 {
   text-align: left;
@@ -5283,7 +5283,7 @@ body {
 .cid-qXqvqud293 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/c3-cic-ww2-1-1200x685.jpg");
 }
 .cid-qXqvqud293 .title {
   margin-bottom: 2rem;
@@ -5308,7 +5308,10 @@ body {
   text-align: center;
 }
 .cid-qXqvqud293 H2 {
-  color: #000000;
+  color: #f7ed4a;
+}
+.cid-qXqvqud293 LABEL {
+  color: #f7ed4a;
 }
 .cid-qW1vIeMc4F .navbar {
   background: #000000;
